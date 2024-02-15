@@ -40,7 +40,7 @@ function App() {
               onClick={() => removeTodo(index)}
               style={{ cursor: "pointer" }}
             >
-              {todo} a
+              {todo} 
             </li>
           ))}
         </ul>
