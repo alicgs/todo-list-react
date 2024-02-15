@@ -1,0 +1,10 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.heroSection{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  gap: 20px;
+}
+
